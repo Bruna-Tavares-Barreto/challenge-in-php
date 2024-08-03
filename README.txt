@@ -9,7 +9,7 @@ MySQL
 Bootstrap
 Instalação
 1. Clone o Repositório
-git clone https://github.com/Bruna-Tavares-Barreto/DesafioPHP.git
+git clone https://github.com/Bruna-Tavares-Barreto/challenge-in-php.git
 
 2. Configuração do Banco de Dados
 Crie o Banco de Dados:
